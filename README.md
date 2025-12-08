@@ -32,7 +32,7 @@ Requirements:
 ## 📸 Screenshots
 
 ### Main Window
-(https://github.com/irinanedrita-sys/T2200Analyzer/blob/main/screenshots/2025_12_08_13_07_56_T2200_Form_Analyzer.jpg?raw=true)
+(https://github.com/irinanedrita-sys/T2200Analyzer/blob/main/screenshots/2025_12_08_13_07_56_T2200_Form_Analyzer.jpg)
 ### Example Analysis Output
 (https://github.com/irinanedrita-sys/T2200Analyzer/blob/main/screenshots/2025_12_08_13_07_56_T2200_Form_Analyzer.jpg)
 
