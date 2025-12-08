@@ -34,7 +34,7 @@ Requirements:
 ### Main Window
 (https://github.com/irinanedrita-sys/T2200Analyzer/blob/main/screenshots/2025_12_08_13_07_56_T2200_Form_Analyzer.jpg?raw=true)
 ### Example Analysis Output
-![Output](screenshots/screenshot2.png)
+[![Output](screenshots/screenshot2.png)](https://github.com/irinanedrita-sys/T2200Analyzer/blob/main/screenshots/2025_12_08_13_07_56_T2200_Form_Analyzer.jpg)
 
 Clone or download this repository:
 
