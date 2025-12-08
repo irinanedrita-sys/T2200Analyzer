@@ -28,6 +28,14 @@ T2200Analyzer reads a scanned or PDF version of CRA Form **T2200** and:
 Requirements:
 - Python 3.10+ (tested on Windows)
 - Ability to install packages with `pip`
+- 
+## 📸 Screenshots
+
+### Main Window
+[![Main Window](screenshots/screenshot1.png)
+](https://github.com/irinanedrita-sys/T2200Analyzer/blob/main/screenshots/2025_12_08_13_07_56_T2200_Form_Analyzer.jpg?raw=true)
+### Example Analysis Output
+![Output](screenshots/screenshot2.png)
 
 Clone or download this repository:
 
